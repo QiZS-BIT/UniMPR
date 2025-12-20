@@ -1,4 +1,4 @@
-# UniMPR: A Unified Framework for Multimodal Place Recognition with Arbitrary Sensor Configurations
+# UniMPR: A Unified Framework for Multimodal Place Recognition with Heterogeneous Sensor Configurations
 
 [Zhangshuo Qi](https://github.com/QiZS-BIT)<sup>1</sup>, [Jingyi Xu](https://github.com/BIT-XJY)<sup>2</sup>, [Luqi Cheng](https://github.com/ChengLuqi)<sup>1</sup>, Shichen Wen<sup>1</sup>, Yiming Ma<sup>3</sup>, [Guangming Xiong](https://ieeexplore.ieee.org/author/37286205000)<sup>1*</sup>
 
