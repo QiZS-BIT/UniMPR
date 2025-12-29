@@ -1,0 +1,14 @@
+faiss_cpu==1.12.0
+faiss_gpu==1.7.2
+fastmoe==1.1.0
+numpy==1.24.4
+nuscenes_devkit==1.1.11
+open3d==0.17.0
+opencv_python==4.12.0.88
+Pillow==12.0.0
+scikit_learn==1.8.0
+scipy==1.16.3
+setuptools==80.9.0
+torch==2.1.0+cu121
+torchvision==0.16.0+cu121
+tqdm==4.67.1
