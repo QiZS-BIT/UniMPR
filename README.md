@@ -31,6 +31,7 @@ cd UniMPR
 conda create -n unimpr python=3.10
 conda activate unimpr
 pip install -r requirements.txt
+pip install modules/diff-gaussian-rasterization
 ```
 
 ## Data Preparation
